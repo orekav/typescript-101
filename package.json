@@ -1,0 +1,13 @@
+{
+  "name": "typescript-101",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "dependencies": {
+    "tslib": "2.3.1"
+  },
+  "devDependencies": {
+    "typescript": "4.5.3"
+  }
+}
