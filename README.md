@@ -17,9 +17,7 @@
 - [Functions](./2_functions/README.md)
 - [Types](./3_types/README.md)
 - [Generics](./4_generics/README.md)
-- [More generics]()
-- [Even more generics]()
-- [Yes, you are right, generics]()
+- [Exercises](./5_exercises/README.md)
 
 ## Links of Interest
 - [Type compatibility](https://www.typescriptlang.org/docs/handbook/type-compatibility.html)
