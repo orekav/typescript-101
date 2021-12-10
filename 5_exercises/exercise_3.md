@@ -11,3 +11,5 @@ type result = TupleToObject<typeof tuple> // expected { tesla: 'tesla', 'model 3
 ```
 
 [Exercise](./exercise_3.ts)
+
+<p><a href="https://tsch.js.org/11/play" target="_blank"><img src="https://img.shields.io/badge/-Take%20the%20Challenge-3178c6?logo=typescript&logoColor=white" alt="Take the Challenge"/></a></p>
