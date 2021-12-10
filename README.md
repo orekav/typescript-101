@@ -22,3 +22,4 @@
 ## Links of Interest
 - [Type compatibility](https://www.typescriptlang.org/docs/handbook/type-compatibility.html)
 - [Do's and Don'ts](https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html)
+- [Challenges](https://tsch.js.org/)

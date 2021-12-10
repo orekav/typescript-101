@@ -7,10 +7,10 @@ type MyPick<T, K> = any
 import { Equal, Expect } from './utils'
 
 type cases = [
-  Expect<Equal<Expected1, MyPick<Todo, 'title'>>>,
+  Expect<Equal<Expected1, Pick<Todo, 'title'>>>,
   Expect<Equal<Expected2, MyPick<Todo, 'title' | 'completed'>>>,
   // @ts-expect-error
-  MyPick<"hola", 'title' | 'completed' | 'invalid'>,
+  MyPick<Todo, 'title' | 'completed' | 'invalid'>,
 ]
 
 interface Todo {
